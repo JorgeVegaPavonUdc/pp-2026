@@ -1,0 +1,27 @@
+# OCaml
+_build/
+*.byte
+*.native
+*.cmo
+*.cmi
+*.cmx
+*.cmt
+*.cmti
+*.o
+*.a
+.merlin
+*.install
+_opam/
+
+# C
+*.o
+*.out
+*.exe
+a.out
+*.d
+*.so
+*.dylib
+
+# General
+.DS_Store
+Thumbs.db
